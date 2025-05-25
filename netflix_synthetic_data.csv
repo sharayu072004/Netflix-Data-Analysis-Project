@@ -1,0 +1,501 @@
+movie_id,title,genre,release_date,popularity,vote_count,vote_average,duration,language,country,type
+1,Shadow Journey,Drama|Comedy|Crime,1990-09-25,37.6,16359,2.7,53,Portuguese,Portugal,TV Show
+2,Broken Memory,History|Family,2012-01-11,68.2,45145,6.0,70,Mandarin,China,TV Show
+3,Silent Odyssey,Musical|Sci-Fi,1993-07-21,98.3,49344,2.2,173,Spanish,Argentina,Movie
+4,Night Flame,History|Crime,1992-02-28,34.5,45733,3.0,133,English,Canada,Movie
+5,Forbidden Dreams,Drama|Musical|Adventure,2008-10-29,61.0,41790,5.4,119,Spanish,Argentina,Movie
+6,Golden Legacy,Action|Drama,2006-07-11,72.9,48512,8.5,91,German,Germany,Movie
+7,Dark Whisper,Animation|Horror|Fantasy,2011-06-06,25.0,48726,5.6,56,Mandarin,China,TV Show
+8,Sacred Dreams,Drama,2019-10-16,69.6,19923,5.7,44,Italian,Italy,TV Show
+9,Hidden Echo,Horror|Family,2012-04-14,18.9,48590,3.9,89,Portuguese,Portugal,Movie
+10,Mystic Echo,Crime|Family,1991-06-14,86.9,34390,8.6,164,Japanese,Japan,Movie
+11,Dark Quest,Drama,2024-09-02,39.4,39544,7.7,58,German,Germany,TV Show
+12,Sacred Legacy,Mystery|Adventure|Thriller,1992-10-30,50.9,46000,7.3,38,Portuguese,Brazil,TV Show
+13,Mystic Quest,History|Mystery|Fantasy,2005-03-29,87.6,7253,5.2,148,French,Canada,Movie
+14,Bright Echo,Thriller|Family,2018-08-21,92.4,36590,6.5,180,Hindi,India,Movie
+15,Bright Spectrum,Action,1991-10-21,35.1,49880,4.8,64,English,Australia,TV Show
+16,Silent Empire,Action|History,2006-05-17,72.8,33777,4.2,109,Mandarin,China,Movie
+17,Dark Echo,Action|Horror|Family,2002-03-01,54.3,31452,7.7,34,Portuguese,Portugal,TV Show
+18,Forbidden Whisper,Comedy|Romance|Documentary,2004-12-04,40.5,23644,8.2,24,Korean,South Korea,TV Show
+19,Bright Journey,Animation|Romance|Horror,2007-01-22,31.6,28979,5.6,105,Spanish,Argentina,Movie
+20,Urban Spectrum,Action,2023-03-16,30.0,41487,1.1,138,German,Germany,Movie
+21,Silent Horizon,History|Crime,2014-10-27,88.2,19971,4.4,133,Italian,Italy,Movie
+22,Sacred Realm,Romance,2019-08-18,98.4,32950,2.7,27,English,Canada,TV Show
+23,Quantum Journey,Adventure|Fantasy,2023-08-16,36.7,7625,7.8,63,French,Canada,TV Show
+24,Urban Quest,Fantasy,2005-12-04,54.4,11016,9.2,192,German,Germany,Movie
+25,Lost Lines,Documentary,2010-10-30,80.4,33708,4.8,52,Italian,Italy,TV Show
+26,Forbidden Echo,Family,2013-02-10,69.2,40237,8.8,48,German,Germany,TV Show
+27,Forbidden Memory,Fantasy,2020-06-21,67.4,15226,7.8,35,Mandarin,Taiwan,TV Show
+28,Quantum Realm,Adventure|History|Mystery,2014-05-21,59.4,25508,6.0,117,Spanish,Mexico,Movie
+29,Dark Legacy,Fantasy|Drama,2004-06-06,61.8,37740,6.0,178,German,Germany,Movie
+30,Wild Vision,History|Romance|Musical,2018-11-26,49.4,15730,3.2,27,French,Canada,TV Show
+31,Lost Spectrum,Fantasy|Documentary|Horror,1990-05-21,42.8,7291,2.9,176,English,UK,Movie
+32,Fallen Lines,Romance|Horror|Action,2012-03-05,67.3,27730,6.8,39,Portuguese,Portugal,TV Show
+33,Lost Vision,History|Animation|Thriller,2002-11-15,75.2,1399,6.5,32,French,Belgium,TV Show
+34,Bright Labyrinth,Romance|Family,1995-12-04,46.0,33268,1.1,133,Mandarin,Taiwan,Movie
+35,Bright Spectrum,Documentary|Comedy,1994-06-27,18.3,26402,5.8,31,French,Belgium,TV Show
+36,Dark Quest,Drama|Adventure,1997-08-30,20.1,33183,2.9,101,Korean,South Korea,Movie
+37,Night Vision,Family,1997-08-19,84.3,6952,4.0,58,Hindi,India,TV Show
+38,Quantum Horizon,Romance|Musical|Animation,2005-09-29,81.7,37826,6.0,23,Japanese,Japan,TV Show
+39,Hidden Spectrum,History|Family,1992-10-08,38.4,18785,1.1,24,Spanish,Argentina,TV Show
+40,Lost Echo,Animation|Thriller,1991-12-23,31.4,6119,2.1,140,Italian,Italy,Movie
+41,Secret Horizon,Crime|Documentary|Animation,2008-01-04,37.4,33133,6.4,22,Hindi,India,TV Show
+42,Silent Spectrum,Crime,2003-10-28,26.3,25236,7.5,180,Portuguese,Brazil,Movie
+43,Hidden Horizon,Action|Crime,2004-09-23,29.3,22491,3.1,96,Spanish,Argentina,Movie
+44,Forbidden Lines,Musical,2023-07-16,56.6,991,5.0,117,Korean,South Korea,Movie
+45,Shadow Empire,Drama|Mystery|Comedy,2003-05-04,88.8,45213,10.0,42,French,Belgium,TV Show
+46,Urban Pulse,Comedy,1993-09-14,92.8,2234,8.5,170,French,Belgium,Movie
+47,Forbidden Horizon,History|Sci-Fi,1990-09-18,60.4,27540,9.3,150,French,France,Movie
+48,Wild Empire,Fantasy|Family|Sci-Fi,2015-08-13,35.0,22808,8.8,185,French,France,Movie
+49,Silent Storm,Romance,2022-10-08,22.0,6931,3.0,65,German,Germany,TV Show
+50,Infinite Lines,Thriller|Comedy|Adventure,2020-02-12,92.0,39436,1.0,65,German,Germany,TV Show
+51,Silent Pulse,Romance|Family,2006-11-18,36.4,29613,8.6,34,Hindi,India,TV Show
+52,Shadow Flame,Adventure,2000-03-23,21.8,26415,4.0,88,Spanish,Spain,Movie
+53,Wild Vision,Comedy|Sci-Fi|Adventure,1996-03-07,30.7,12295,2.4,65,Japanese,Japan,TV Show
+54,Silent Legacy,Crime,1994-03-04,33.4,23492,8.1,31,French,Belgium,TV Show
+55,Quantum Empire,Mystery|Romance,2006-02-21,52.1,34366,7.2,64,German,Germany,TV Show
+56,Wild Flame,Fantasy|History|Action,2019-12-16,33.6,35462,6.3,20,Korean,South Korea,TV Show
+57,Urban Memory,Animation|Horror,1999-04-20,55.5,22010,1.5,156,Japanese,Japan,Movie
+58,Shadow Odyssey,Crime,2018-04-18,97.6,41966,1.7,55,German,Germany,TV Show
+59,Golden Pulse,Romance,1996-06-25,47.7,11466,7.8,38,Portuguese,Brazil,TV Show
+60,Mystic Quest,Fantasy|Family|History,2010-10-10,44.3,43943,7.8,159,Japanese,Japan,Movie
+61,Crimson Labyrinth,Thriller|Comedy,2015-11-12,51.8,12437,7.3,170,Italian,Italy,Movie
+62,Forbidden Labyrinth,Thriller|Drama,2009-10-31,57.7,13006,9.4,123,Portuguese,Portugal,Movie
+63,Lost Quest,Documentary|History,2007-08-30,26.5,19737,6.8,58,Spanish,Mexico,TV Show
+64,Urban Tide,Horror|Musical,2019-01-17,12.3,48832,2.5,164,Mandarin,Taiwan,Movie
+65,Secret Journey,Sci-Fi,2019-08-05,73.7,38804,2.3,144,Hindi,India,Movie
+66,Night Flame,Action,2022-02-09,61.1,32641,5.7,164,French,Belgium,Movie
+67,Infinite Vision,Documentary,2008-02-18,96.9,13446,2.4,24,Portuguese,Portugal,TV Show
+68,Mystic Legacy,Sci-Fi,2013-08-01,29.3,3607,6.4,85,English,Australia,Movie
+69,Urban Flame,Fantasy|Romance,1995-10-16,11.1,11837,8.6,26,Spanish,Argentina,TV Show
+70,Quantum Empire,Comedy|Drama,1998-04-27,23.9,32677,1.6,164,Portuguese,Portugal,Movie
+71,Fallen Odyssey,Animation,2000-05-11,30.0,10345,4.1,67,English,USA,TV Show
+72,Golden Odyssey,Drama|Comedy|Adventure,1995-09-02,61.1,28764,9.1,26,Korean,South Korea,TV Show
+73,Crimson Flame,Drama,2005-12-07,50.9,11094,1.3,38,English,Canada,TV Show
+74,Shadow Legacy,Horror|Comedy,2011-06-09,73.8,20637,1.4,44,German,Germany,TV Show
+75,Broken Tide,Mystery,2011-10-21,11.7,21044,1.5,198,English,Australia,Movie
+76,Secret Odyssey,Family|Romance|Sci-Fi,1995-06-27,97.8,4220,2.7,172,Spanish,Argentina,Movie
+77,Wild Quest,Mystery,1999-12-13,33.9,12394,9.2,67,French,France,TV Show
+78,Infinite Storm,Drama,1993-12-14,56.6,7760,2.2,81,Hindi,India,Movie
+79,Sacred Tide,Mystery|Animation|Family,1994-12-27,40.8,48123,6.7,21,Mandarin,Taiwan,TV Show
+80,Crimson Empire,Musical,2003-11-20,25.3,42783,4.3,132,Mandarin,China,Movie
+81,Mystic Whisper,Adventure,2010-10-31,15.6,1522,7.3,68,Spanish,Argentina,TV Show
+82,Secret Journey,Animation|Crime|Horror,2023-05-13,78.1,10687,2.7,149,English,USA,Movie
+83,Dark Vision,Romance,2002-05-01,46.4,44201,7.0,63,Korean,South Korea,TV Show
+84,Night Spectrum,Adventure|Comedy|Romance,2014-10-12,29.7,888,7.6,112,Italian,Italy,Movie
+85,Fallen Rhythm,Mystery|Animation,2007-01-07,70.9,2999,6.6,168,German,Germany,Movie
+86,Quantum Whisper,Musical|Mystery|Sci-Fi,2008-11-17,66.8,1154,5.4,117,Korean,South Korea,Movie
+87,Quantum Rhythm,Musical|Action|Documentary,1993-01-24,24.4,47636,6.2,33,English,Australia,TV Show
+88,Sacred Realm,Family|Drama,1998-05-23,88.8,8782,6.8,58,Korean,South Korea,TV Show
+89,Mystic Labyrinth,Thriller,1992-08-28,14.4,20352,2.7,29,Italian,Italy,TV Show
+90,Fallen Quest,Crime,2003-04-01,21.4,36266,7.2,38,English,Australia,TV Show
+91,Infinite Tide,Musical|Adventure|Fantasy,2006-06-19,95.9,35840,8.3,20,French,Canada,TV Show
+92,Forbidden Tide,Horror,2017-07-25,85.4,31466,3.5,55,Mandarin,China,TV Show
+93,Quantum Flame,Adventure|Sci-Fi,2023-12-16,82.0,26117,7.1,137,Japanese,Japan,Movie
+94,Crimson Journey,Thriller,2000-07-07,20.4,2418,3.3,37,French,Belgium,TV Show
+95,Forbidden Echo,Mystery|Adventure|Thriller,1998-12-10,74.6,10207,6.9,67,Italian,Italy,TV Show
+96,Forbidden Horizon,Documentary|Adventure,2018-05-27,39.2,25627,1.4,141,German,Germany,Movie
+97,Golden Rhythm,Mystery|Adventure,2011-02-09,86.2,1405,3.7,23,Korean,South Korea,TV Show
+98,Bright Journey,Comedy,2024-06-03,37.5,40806,3.6,148,Hindi,India,Movie
+99,Golden Pulse,Mystery|Romance,2007-09-14,18.3,31838,9.1,202,Italian,Italy,Movie
+100,Shadow Echo,Sci-Fi|Action,2023-10-28,52.5,10428,6.4,160,Spanish,Argentina,Movie
+101,Night Realm,Mystery|Crime,1991-06-01,49.2,39552,8.8,132,Portuguese,Portugal,Movie
+102,Bright Odyssey,Fantasy|Comedy,1992-05-03,64.2,45850,4.5,57,Italian,Italy,TV Show
+103,Golden Echo,Sci-Fi|Action|Thriller,2003-12-29,94.1,20632,2.7,50,Italian,Italy,TV Show
+104,Silent Odyssey,Comedy|Animation,2001-12-04,67.2,30712,4.4,192,Hindi,India,Movie
+105,Silent Quest,Documentary|Family,1995-11-06,93.3,44870,3.3,62,Mandarin,Taiwan,TV Show
+106,Shadow Horizon,Thriller|Family,1995-07-07,28.3,40307,8.5,89,Spanish,Spain,Movie
+107,Eternal Flame,Thriller,2008-07-25,22.0,34061,3.7,93,German,Germany,Movie
+108,Silent Dreams,Adventure,2008-02-02,53.3,31989,7.7,60,Italian,Italy,TV Show
+109,Hidden Vision,Action|Animation|Thriller,2023-07-10,72.0,13373,3.6,47,German,Germany,TV Show
+110,Silent Empire,Thriller|Adventure,1992-01-16,43.8,19385,1.1,30,Portuguese,Brazil,TV Show
+111,Shadow Spectrum,Action|Sci-Fi,2022-03-10,28.1,9521,2.3,93,English,Canada,Movie
+112,Bright Vision,Documentary|Family|Adventure,2011-10-13,64.6,21978,5.9,26,Hindi,India,TV Show
+113,Bright Labyrinth,Horror|History,2000-01-23,48.4,406,7.5,65,Korean,South Korea,TV Show
+114,Sacred Memory,Crime|Thriller|Fantasy,1990-09-02,22.7,24256,3.5,25,Korean,South Korea,TV Show
+115,Bright Lines,Crime,2004-05-31,89.5,21082,1.8,20,Spanish,Spain,TV Show
+116,Silent Quest,Sci-Fi|Thriller,2016-10-12,90.7,34216,5.2,66,Japanese,Japan,TV Show
+117,Bright Rhythm,Crime,2014-06-02,17.9,977,8.1,124,Italian,Italy,Movie
+118,Bright Empire,Documentary|Comedy,2001-05-08,88.7,48738,9.0,111,Spanish,Mexico,Movie
+119,Quantum Pulse,Adventure|Horror|Action,2010-08-15,23.3,21709,6.8,63,Korean,South Korea,TV Show
+120,Night Realm,Fantasy,2018-06-17,65.5,49703,1.6,116,Mandarin,China,Movie
+121,Wild Tide,Mystery|Sci-Fi|Musical,1998-11-14,71.6,30480,2.1,48,German,Germany,TV Show
+122,Night Realm,Thriller|Animation,2003-12-20,27.9,25086,1.6,24,Japanese,Japan,TV Show
+123,Crimson Vision,Family|Romance,2003-10-10,96.9,11858,2.3,109,Korean,South Korea,Movie
+124,Quantum Vision,Documentary,2010-02-14,26.4,33496,5.8,30,Portuguese,Portugal,TV Show
+125,Wild Whisper,Crime|Action|Sci-Fi,1996-08-14,89.6,4251,9.2,29,Japanese,Japan,TV Show
+126,Quantum Empire,Mystery,1992-05-30,42.7,42083,2.7,36,Portuguese,Brazil,TV Show
+127,Fallen Storm,Musical|Romance,2008-08-17,13.7,24713,5.3,35,Hindi,India,TV Show
+128,Quantum Storm,Sci-Fi|History|Action,1993-03-14,91.2,24520,4.2,111,Spanish,Spain,Movie
+129,Fallen Horizon,Action|Comedy|Musical,2022-06-16,85.0,49245,9.8,140,Japanese,Japan,Movie
+130,Bright Lines,Mystery|Adventure|Horror,1998-01-17,55.2,33235,8.7,59,Korean,South Korea,TV Show
+131,Hidden Labyrinth,Documentary,2008-08-10,45.2,33675,5.5,182,Korean,South Korea,Movie
+132,Infinite Echo,Drama,1991-12-27,44.9,42162,1.3,95,English,Australia,Movie
+133,Quantum Rhythm,Action|Animation|Musical,2002-09-25,55.9,9645,2.7,68,English,Australia,TV Show
+134,Shadow Spectrum,Comedy|Animation|Horror,1994-04-08,97.3,38122,9.4,34,Korean,South Korea,TV Show
+135,Crimson Lines,Romance,1991-03-20,64.1,32484,1.5,24,French,Canada,TV Show
+136,Fallen Journey,Musical,2021-10-04,89.8,5478,7.5,35,Japanese,Japan,TV Show
+137,Lost Storm,History,1991-03-08,62.2,43159,1.4,198,Portuguese,Portugal,Movie
+138,Broken Echo,Romance,2022-04-08,90.3,22092,5.0,85,Italian,Italy,Movie
+139,Lost Vision,Mystery|History,2023-12-07,80.7,20515,4.7,40,Hindi,India,TV Show
+140,Shadow Whisper,Thriller|Sci-Fi|Romance,1993-11-20,34.5,30279,4.2,23,Mandarin,China,TV Show
+141,Hidden Whisper,Musical,2003-11-27,26.8,21377,9.1,92,Japanese,Japan,Movie
+142,Urban Whisper,Comedy|Documentary|Crime,1992-12-26,56.7,39243,8.2,95,Mandarin,China,Movie
+143,Hidden Vision,Thriller|Horror|History,2020-03-11,63.3,27722,1.6,69,English,USA,TV Show
+144,Eternal Rhythm,Musical|Documentary|Drama,1999-11-29,21.8,43939,7.2,108,Mandarin,China,Movie
+145,Broken Vision,Drama|Sci-Fi,2006-03-30,42.9,40692,6.6,34,Hindi,India,TV Show
+146,Forbidden Labyrinth,Crime|Musical|Thriller,2022-11-20,56.1,30036,3.0,185,Portuguese,Brazil,Movie
+147,Urban Dreams,Animation|Horror|History,1999-02-18,90.7,37796,2.2,120,French,Canada,Movie
+148,Wild Tide,Horror|Family|Comedy,1997-07-26,36.5,48775,6.2,209,Spanish,Argentina,Movie
+149,Golden Spectrum,Adventure|Horror|Musical,1999-07-31,86.7,31185,5.3,20,Portuguese,Brazil,TV Show
+150,Urban Flame,Mystery|Romance,1996-05-14,14.9,154,4.8,167,Portuguese,Portugal,Movie
+151,Urban Quest,Fantasy|Animation|Thriller,1995-10-09,38.6,45743,6.6,189,Mandarin,China,Movie
+152,Fallen Journey,Crime|Thriller,1998-01-31,38.0,8085,6.5,65,Japanese,Japan,TV Show
+153,Broken Tide,Musical|Comedy,2009-03-21,33.4,25035,4.4,47,Mandarin,China,TV Show
+154,Bright Legacy,Musical|Family,1990-12-15,34.1,31597,8.6,172,Italian,Italy,Movie
+155,Infinite Legacy,Fantasy,2018-02-23,29.7,46935,4.2,177,Hindi,India,Movie
+156,Sacred Quest,Crime|Documentary|Thriller,1999-07-05,24.9,15204,9.0,123,Mandarin,Taiwan,Movie
+157,Mystic Quest,History|Sci-Fi|Adventure,2020-02-24,48.6,24018,2.8,20,Japanese,Japan,TV Show
+158,Infinite Quest,Romance|Adventure,1994-03-30,11.8,38941,9.1,64,Portuguese,Portugal,TV Show
+159,Crimson Rhythm,Animation,2010-10-30,90.3,47641,7.0,113,Mandarin,Taiwan,Movie
+160,Hidden Tide,Romance,2010-05-07,94.8,30333,2.7,204,Italian,Italy,Movie
+161,Bright Labyrinth,Drama|Sci-Fi|Musical,2008-07-21,90.7,49185,8.7,57,Hindi,India,TV Show
+162,Wild Dreams,Sci-Fi|Family|History,2013-09-25,70.9,39731,2.5,169,English,UK,Movie
+163,Wild Dreams,Adventure|Horror|Fantasy,1995-10-29,92.3,5753,3.3,61,Japanese,Japan,TV Show
+164,Crimson Vision,Family|Fantasy,2013-09-03,21.3,22556,8.3,45,English,Australia,TV Show
+165,Mystic Empire,Crime,2019-09-02,95.7,36340,4.2,61,Japanese,Japan,TV Show
+166,Broken Memory,Fantasy|Musical,2010-11-16,88.5,24169,3.1,189,Spanish,Mexico,Movie
+167,Shadow Storm,Mystery|Animation,2000-11-22,89.7,3685,2.7,27,Japanese,Japan,TV Show
+168,Broken Journey,Horror|Action,2022-12-01,62.8,9775,3.5,20,Spanish,Mexico,TV Show
+169,Eternal Journey,Sci-Fi|Drama,1993-03-27,34.9,13191,9.5,139,Portuguese,Portugal,Movie
+170,Hidden Whisper,Thriller|Musical,2022-05-02,18.3,38111,3.7,40,Spanish,Argentina,TV Show
+171,Secret Odyssey,Comedy,1993-02-08,41.5,3134,9.8,148,Hindi,India,Movie
+172,Bright Lines,History,1992-03-07,66.7,29167,9.2,48,French,Canada,TV Show
+173,Bright Vision,Documentary|Fantasy,1994-07-15,21.7,34223,4.0,180,English,UK,Movie
+174,Crimson Pulse,Family|Drama|Action,1996-05-15,72.3,23045,7.6,50,Korean,South Korea,TV Show
+175,Silent Storm,Family|Sci-Fi|Thriller,2003-05-22,50.6,49289,1.4,183,Japanese,Japan,Movie
+176,Crimson Dreams,Animation|Sci-Fi|Romance,1993-02-19,85.4,10015,3.0,55,Mandarin,Taiwan,TV Show
+177,Secret Whisper,Adventure,1998-05-18,48.4,11338,1.4,112,Mandarin,Taiwan,Movie
+178,Broken Labyrinth,Animation|Thriller|Musical,1996-11-07,95.7,47519,5.7,174,English,UK,Movie
+179,Quantum Memory,Horror|Musical,1995-10-04,46.9,10753,1.3,149,Mandarin,Taiwan,Movie
+180,Infinite Quest,Comedy,2002-02-24,98.4,25246,1.2,54,French,Canada,TV Show
+181,Urban Memory,Mystery|Adventure|Crime,2011-02-06,40.2,299,8.9,49,Spanish,Argentina,TV Show
+182,Bright Lines,Comedy,2013-10-11,84.2,17781,9.0,34,German,Germany,TV Show
+183,Night Odyssey,Documentary|Fantasy|Adventure,2007-02-04,41.8,2538,3.3,170,Portuguese,Brazil,Movie
+184,Bright Vision,Fantasy|Drama|Family,1997-03-03,21.5,17800,7.3,201,Italian,Italy,Movie
+185,Secret Empire,Comedy|Documentary|Romance,1996-01-10,48.1,38065,1.8,48,English,Australia,TV Show
+186,Eternal Storm,Sci-Fi|Musical,2009-07-02,91.5,17098,5.8,99,Japanese,Japan,Movie
+187,Bright Realm,Thriller|Adventure|History,1993-07-14,51.2,7400,1.3,65,English,UK,TV Show
+188,Dark Lines,Animation|Documentary,2007-01-19,66.4,44775,9.7,171,Italian,Italy,Movie
+189,Sacred Legacy,Documentary|Adventure|Drama,2001-08-30,21.2,12740,3.3,60,Portuguese,Brazil,TV Show
+190,Mystic Odyssey,Horror,2022-12-10,38.2,35161,8.0,43,Mandarin,Taiwan,TV Show
+191,Hidden Realm,Horror,2000-11-27,94.2,8846,5.1,45,Japanese,Japan,TV Show
+192,Secret Dreams,Thriller|Family|Mystery,1994-12-03,85.7,15911,3.1,126,French,France,Movie
+193,Broken Lines,Horror|Adventure|Family,2008-07-31,14.2,28786,2.8,59,Italian,Italy,TV Show
+194,Urban Lines,Musical|Drama|Thriller,2010-09-04,14.2,30608,7.1,162,German,Germany,Movie
+195,Night Empire,Comedy,2008-04-02,82.9,5566,2.5,164,Hindi,India,Movie
+196,Fallen Empire,Thriller|Documentary|Adventure,2018-04-25,73.6,21697,4.6,129,Japanese,Japan,Movie
+197,Secret Legacy,Adventure,1997-03-08,46.0,44849,8.4,135,Portuguese,Brazil,Movie
+198,Infinite Spectrum,Crime,1995-07-05,75.7,7103,2.8,24,German,Germany,TV Show
+199,Golden Whisper,Documentary,2004-12-09,77.6,28316,1.5,113,Hindi,India,Movie
+200,Lost Flame,Crime|Musical,2009-08-06,32.4,6603,2.0,67,English,USA,TV Show
+201,Urban Flame,Fantasy,2021-02-06,94.0,17502,2.0,41,Spanish,Argentina,TV Show
+202,Lost Flame,Documentary|Comedy|Romance,1998-02-14,77.0,23602,4.2,52,Portuguese,Brazil,TV Show
+203,Hidden Vision,Comedy|Adventure,2003-09-04,62.8,46310,4.7,126,German,Germany,Movie
+204,Secret Flame,Action|Drama|Horror,2005-08-08,79.0,16428,4.1,115,English,Australia,Movie
+205,Silent Empire,Thriller,2015-06-17,24.7,46703,6.0,171,Mandarin,Taiwan,Movie
+206,Mystic Journey,Crime|Adventure|Documentary,2022-10-19,48.0,22724,2.8,31,Spanish,Spain,TV Show
+207,Secret Dreams,Fantasy,2015-06-19,14.8,35331,6.0,99,French,France,Movie
+208,Eternal Legacy,Fantasy|Comedy|Musical,2020-03-19,70.8,21178,8.9,47,Spanish,Mexico,TV Show
+209,Infinite Quest,Romance|History,2017-08-11,63.1,29431,9.2,43,French,Canada,TV Show
+210,Urban Dreams,Crime,2004-06-06,68.8,43785,9.5,133,Italian,Italy,Movie
+211,Forbidden Tide,Fantasy,1995-09-22,88.9,31933,9.8,125,Korean,South Korea,Movie
+212,Quantum Journey,Horror|Drama|Thriller,2018-04-05,53.2,32232,1.9,194,Italian,Italy,Movie
+213,Golden Spectrum,Horror,2010-05-31,93.8,49028,7.8,29,Hindi,India,TV Show
+214,Broken Quest,Action|Comedy|Fantasy,1998-03-01,47.7,12133,6.4,166,German,Germany,Movie
+215,Secret Whisper,Animation,2001-12-21,11.6,47277,9.6,65,French,Belgium,TV Show
+216,Night Whisper,Family|Documentary,1998-09-26,71.3,19343,6.6,46,Portuguese,Portugal,TV Show
+217,Shadow Empire,Romance|History|Drama,2004-12-20,25.3,36055,8.1,158,English,UK,Movie
+218,Forbidden Quest,Fantasy,1996-04-18,58.0,12828,1.3,39,Hindi,India,TV Show
+219,Secret Tide,Drama,2005-06-26,43.8,10871,4.8,205,Italian,Italy,Movie
+220,Night Labyrinth,Family|Horror,2001-12-12,46.9,44978,5.8,36,Hindi,India,TV Show
+221,Forbidden Memory,Thriller,2004-07-11,67.0,34359,7.6,170,Mandarin,Taiwan,Movie
+222,Golden Memory,Documentary,1998-03-08,75.4,604,1.0,194,Portuguese,Portugal,Movie
+223,Quantum Whisper,Romance|Family|Fantasy,2007-09-17,68.9,23636,3.8,207,Japanese,Japan,Movie
+224,Golden Labyrinth,Comedy|Fantasy,2002-11-11,93.2,36751,1.1,210,Portuguese,Brazil,Movie
+225,Hidden Odyssey,Drama|Sci-Fi|Romance,2023-10-17,86.6,21758,5.2,69,French,Canada,TV Show
+226,Infinite Rhythm,Sci-Fi|Fantasy|Comedy,2009-04-04,40.0,26749,4.5,145,Korean,South Korea,Movie
+227,Silent Realm,Fantasy,1990-09-13,25.0,31494,8.5,70,German,Germany,TV Show
+228,Fallen Vision,Crime|Comedy|Mystery,2016-10-22,26.7,4364,5.7,127,Korean,South Korea,Movie
+229,Crimson Realm,Thriller|Musical,2013-04-27,51.5,42129,6.9,162,Hindi,India,Movie
+230,Dark Flame,Fantasy|Comedy,2021-01-10,73.0,15390,4.6,144,English,Australia,Movie
+231,Infinite Echo,Musical,2004-11-06,38.9,16335,4.5,93,English,Canada,Movie
+232,Bright Echo,Documentary|Comedy,2017-12-22,33.1,34972,3.7,66,Portuguese,Portugal,TV Show
+233,Golden Echo,Fantasy|Mystery,2017-12-01,72.9,11571,9.9,128,German,Germany,Movie
+234,Broken Realm,Horror|Documentary|Comedy,1992-12-03,91.5,42440,6.7,57,Portuguese,Portugal,TV Show
+235,Infinite Dreams,Mystery|Family,1995-03-19,45.7,19906,7.7,25,Japanese,Japan,TV Show
+236,Dark Pulse,Family|Romance,1995-10-19,89.5,19659,5.2,127,Japanese,Japan,Movie
+237,Urban Legacy,Horror,1990-10-06,76.5,23911,8.6,56,French,France,TV Show
+238,Shadow Realm,Action|Documentary|Thriller,1994-05-03,17.0,15709,2.4,69,German,Germany,TV Show
+239,Night Memory,Family|History,2005-08-18,31.4,5203,9.3,44,Mandarin,China,TV Show
+240,Night Empire,Animation,1998-10-29,79.1,32338,7.0,204,Spanish,Mexico,Movie
+241,Secret Dreams,Family,2010-02-18,46.0,33613,2.8,25,Japanese,Japan,TV Show
+242,Urban Quest,Horror|Drama|Fantasy,2000-07-24,11.1,44399,7.8,26,French,France,TV Show
+243,Quantum Realm,Horror,2004-12-03,64.8,19346,8.1,139,Hindi,India,Movie
+244,Bright Storm,Romance,2012-09-29,51.2,23489,4.9,55,Mandarin,China,TV Show
+245,Shadow Odyssey,Documentary,2005-01-26,50.4,9334,5.5,157,Japanese,Japan,Movie
+246,Eternal Flame,History|Sci-Fi|Romance,2019-07-17,43.8,8985,3.4,109,Spanish,Mexico,Movie
+247,Broken Echo,Musical|Sci-Fi,2007-12-23,22.9,40291,4.8,144,Mandarin,China,Movie
+248,Secret Horizon,Horror,2003-05-06,63.2,14875,2.8,194,Japanese,Japan,Movie
+249,Hidden Horizon,Documentary,2005-12-15,23.3,3851,2.9,199,Korean,South Korea,Movie
+250,Secret Odyssey,Comedy|Mystery|Thriller,2006-04-27,46.7,12163,9.6,118,Japanese,Japan,Movie
+251,Wild Spectrum,Documentary,2003-11-11,74.6,40463,7.7,153,Portuguese,Portugal,Movie
+252,Shadow Realm,Adventure|Fantasy|Action,2008-06-11,72.2,13373,3.8,55,French,Canada,TV Show
+253,Eternal Whisper,Musical|Fantasy|History,2018-06-11,44.4,3086,3.1,155,Portuguese,Portugal,Movie
+254,Shadow Odyssey,Animation,2010-03-05,63.9,29422,3.7,159,Japanese,Japan,Movie
+255,Forbidden Echo,History|Family|Action,2012-04-22,42.7,34904,5.7,59,English,Australia,TV Show
+256,Eternal Horizon,Horror,2004-06-08,65.5,16662,8.9,46,German,Germany,TV Show
+257,Night Realm,Action|Drama,2022-06-20,30.6,10490,8.8,207,Japanese,Japan,Movie
+258,Hidden Realm,Sci-Fi|Comedy,2010-01-19,37.4,43077,1.2,65,Portuguese,Portugal,TV Show
+259,Night Empire,Romance,2003-02-26,81.8,44459,5.0,197,Spanish,Argentina,Movie
+260,Wild Legacy,Sci-Fi|Horror,2016-05-13,98.9,22363,7.7,50,German,Germany,TV Show
+261,Wild Flame,Adventure|Horror,2021-09-12,93.5,31275,6.0,89,Spanish,Spain,Movie
+262,Night Realm,Drama,1991-12-18,48.6,19803,8.6,63,Korean,South Korea,TV Show
+263,Secret Spectrum,Fantasy,2003-12-25,14.1,31791,9.8,167,Portuguese,Brazil,Movie
+264,Quantum Empire,Family|Crime|History,2016-06-20,10.6,23241,2.8,30,German,Germany,TV Show
+265,Secret Tide,Mystery|Adventure|Romance,2018-11-23,97.3,1628,9.3,23,Mandarin,Taiwan,TV Show
+266,Sacred Whisper,Animation|Crime,1992-10-31,43.7,49458,9.3,150,German,Germany,Movie
+267,Silent Labyrinth,Adventure|Sci-Fi,1995-09-18,78.8,40608,7.6,36,Portuguese,Portugal,TV Show
+268,Quantum Horizon,Sci-Fi|Musical,2007-04-01,97.8,37596,2.0,84,English,Australia,Movie
+269,Fallen Flame,Musical,2007-03-06,82.7,2608,1.6,21,Mandarin,Taiwan,TV Show
+270,Bright Lines,Documentary|Mystery,2002-12-20,31.7,23341,3.0,179,French,Canada,Movie
+271,Eternal Spectrum,Family,2008-03-28,17.6,3785,5.4,29,Spanish,Argentina,TV Show
+272,Wild Quest,Mystery|Action,2019-05-12,56.7,6476,10.0,44,Mandarin,China,TV Show
+273,Lost Flame,Horror|Mystery|Documentary,2008-08-10,91.3,47725,9.7,91,French,France,Movie
+274,Infinite Whisper,Musical,1991-11-26,32.9,6566,6.8,45,Portuguese,Portugal,TV Show
+275,Crimson Pulse,Drama|Adventure,2003-11-16,93.6,37725,6.1,44,French,Belgium,TV Show
+276,Silent Lines,Sci-Fi,2020-03-05,82.5,26202,8.0,53,Japanese,Japan,TV Show
+277,Broken Spectrum,Comedy,2001-08-24,88.7,25415,4.7,95,Korean,South Korea,Movie
+278,Forbidden Echo,Musical|Crime|Comedy,1994-10-17,90.8,803,4.4,100,Korean,South Korea,Movie
+279,Eternal Horizon,Drama|Horror|Action,2016-01-12,52.9,32263,9.5,159,Hindi,India,Movie
+280,Wild Storm,Crime|Animation|Thriller,1998-12-06,56.7,26423,1.7,169,Japanese,Japan,Movie
+281,Forbidden Legacy,Mystery,1999-02-13,77.3,19365,8.9,57,Hindi,India,TV Show
+282,Urban Memory,Horror|Musical|Documentary,2010-01-04,18.2,29804,7.3,55,German,Germany,TV Show
+283,Fallen Lines,Drama|Crime,2024-09-22,21.1,1146,5.2,181,Portuguese,Brazil,Movie
+284,Shadow Echo,Sci-Fi|Fantasy|Mystery,2020-01-22,82.2,39983,9.6,29,Portuguese,Brazil,TV Show
+285,Golden Tide,Sci-Fi|Fantasy,2019-10-29,99.2,22818,2.3,104,Hindi,India,Movie
+286,Infinite Quest,Action|Adventure,2009-03-15,12.3,39093,1.3,104,Korean,South Korea,Movie
+287,Shadow Flame,History|Documentary|Family,2022-01-02,83.3,44288,5.9,197,French,France,Movie
+288,Mystic Storm,Drama|Adventure,2008-10-19,85.1,26366,4.9,188,Hindi,India,Movie
+289,Quantum Empire,History|Drama,1994-02-06,90.0,44338,4.8,110,Hindi,India,Movie
+290,Lost Journey,Sci-Fi,2018-01-23,16.5,9971,9.3,28,Mandarin,Taiwan,TV Show
+291,Forbidden Odyssey,History|Drama,2001-06-17,98.5,32123,7.6,68,Italian,Italy,TV Show
+292,Mystic Empire,History|Animation|Documentary,2009-02-27,45.6,27010,5.0,148,Mandarin,Taiwan,Movie
+293,Mystic Tide,Drama|Documentary,2017-09-16,36.6,22850,9.3,98,Hindi,India,Movie
+294,Broken Spectrum,Action|Fantasy,1999-12-30,14.8,35001,1.5,123,Italian,Italy,Movie
+295,Night Journey,Romance|History,2015-01-27,99.2,39352,8.7,50,Portuguese,Brazil,TV Show
+296,Golden Labyrinth,Fantasy|Mystery,2006-02-17,40.4,41647,9.8,22,Hindi,India,TV Show
+297,Broken Empire,Adventure|Family,2023-01-03,62.3,11612,5.6,188,Mandarin,China,Movie
+298,Silent Rhythm,Drama,1995-10-01,70.7,19796,2.4,60,Spanish,Mexico,TV Show
+299,Broken Vision,Family|Horror,1999-07-30,35.0,10316,3.3,165,Korean,South Korea,Movie
+300,Silent Quest,Drama|Action|Sci-Fi,2003-10-27,23.0,1532,1.3,32,Spanish,Spain,TV Show
+301,Fallen Flame,Crime|Animation|Drama,2024-10-23,82.8,37626,4.4,63,Portuguese,Portugal,TV Show
+302,Shadow Empire,Drama|Family|Thriller,2019-03-12,31.4,37046,7.0,53,French,Belgium,TV Show
+303,Sacred Labyrinth,Family|Crime|Action,2015-09-18,73.4,48710,2.4,55,Japanese,Japan,TV Show
+304,Crimson Vision,Sci-Fi|Romance,1990-05-01,63.2,42337,3.3,36,Mandarin,Taiwan,TV Show
+305,Hidden Quest,Fantasy|Family|Drama,1997-12-01,35.2,15716,9.9,68,Japanese,Japan,TV Show
+306,Crimson Echo,Crime|Drama|Musical,2017-02-16,32.1,35878,7.2,201,Portuguese,Portugal,Movie
+307,Fallen Legacy,Drama,1995-06-09,26.4,22759,4.9,130,Spanish,Mexico,Movie
+308,Lost Realm,Adventure|Mystery|Romance,1990-02-24,90.6,2888,9.0,174,Italian,Italy,Movie
+309,Infinite Storm,Adventure|Romance,1993-08-14,52.3,11207,5.6,65,Spanish,Argentina,TV Show
+310,Night Echo,Mystery,1993-01-01,49.1,11363,2.6,35,English,Canada,TV Show
+311,Sacred Memory,Crime,1990-02-25,67.0,23479,4.1,167,French,Canada,Movie
+312,Dark Flame,Musical|Sci-Fi,2006-03-30,42.5,37067,2.7,63,German,Germany,TV Show
+313,Bright Journey,Documentary|History,2008-11-17,81.5,31329,6.0,54,Portuguese,Brazil,TV Show
+314,Fallen Whisper,History|Animation|Adventure,2006-01-08,69.3,32500,5.3,30,Portuguese,Portugal,TV Show
+315,Quantum Spectrum,Romance|Horror,1990-04-28,93.4,16416,9.8,54,Italian,Italy,TV Show
+316,Golden Labyrinth,Crime|Family,2015-05-13,56.4,37217,6.7,173,English,USA,Movie
+317,Hidden Tide,Documentary,2021-11-21,42.2,9742,5.7,52,Korean,South Korea,TV Show
+318,Broken Storm,Adventure|Musical|Action,1994-11-21,69.1,38597,9.5,66,Spanish,Argentina,TV Show
+319,Mystic Empire,Horror,2002-04-18,57.0,32396,5.7,202,Japanese,Japan,Movie
+320,Golden Realm,Action|Sci-Fi|Documentary,2022-06-23,74.4,25603,1.5,124,German,Germany,Movie
+321,Eternal Spectrum,History|Horror,1999-12-09,21.3,37841,3.7,188,Italian,Italy,Movie
+322,Sacred Memory,Documentary|History|Mystery,2022-09-30,35.5,31886,2.7,201,German,Germany,Movie
+323,Infinite Flame,Drama|Thriller|Action,2005-10-04,42.6,5002,2.3,105,Spanish,Spain,Movie
+324,Forbidden Odyssey,Musical|Crime,2014-01-31,73.5,46013,4.7,173,French,Canada,Movie
+325,Crimson Vision,Thriller|Romance|Comedy,2016-10-31,37.6,38706,1.4,202,Spanish,Spain,Movie
+326,Mystic Legacy,Family|Romance,2012-07-12,83.4,1562,9.1,55,Japanese,Japan,TV Show
+327,Secret Tide,History,2014-06-27,37.6,42466,8.3,156,Spanish,Argentina,Movie
+328,Infinite Vision,Musical|Action,2005-10-03,73.2,1975,9.4,149,Mandarin,Taiwan,Movie
+329,Silent Tide,Family|Romance,2020-03-28,74.8,44319,5.6,53,Mandarin,China,TV Show
+330,Forbidden Legacy,Horror,1997-06-11,89.3,6602,9.5,63,Spanish,Mexico,TV Show
+331,Golden Memory,Crime|Action,2012-02-02,39.4,2347,3.0,143,German,Germany,Movie
+332,Mystic Tide,Crime|Romance,2009-03-26,75.1,49164,2.5,170,French,Canada,Movie
+333,Secret Horizon,Documentary|Thriller|Mystery,1997-03-02,50.9,21404,3.2,199,Spanish,Spain,Movie
+334,Forbidden Spectrum,Drama|Horror,2018-10-19,49.8,28005,7.8,158,Korean,South Korea,Movie
+335,Shadow Whisper,Fantasy|Animation,1993-10-20,85.4,22821,8.9,70,English,UK,TV Show
+336,Secret Realm,Comedy,2009-07-17,35.9,43935,2.8,131,Mandarin,China,Movie
+337,Lost Whisper,Adventure,2007-09-19,82.8,46202,6.6,67,Italian,Italy,TV Show
+338,Secret Rhythm,Sci-Fi|Drama,2002-10-21,33.6,30439,5.1,49,Hindi,India,TV Show
+339,Shadow Echo,History|Drama|Sci-Fi,1996-07-13,22.7,16847,6.3,21,Korean,South Korea,TV Show
+340,Golden Horizon,History,1999-12-01,64.7,38846,9.1,209,Italian,Italy,Movie
+341,Hidden Vision,Musical,2007-01-16,75.4,42553,4.4,46,English,USA,TV Show
+342,Sacred Vision,Thriller,1990-01-09,72.1,41451,2.0,67,Hindi,India,TV Show
+343,Golden Spectrum,Adventure|Thriller,2002-03-09,97.0,42630,3.4,51,Japanese,Japan,TV Show
+344,Shadow Whisper,Mystery,1995-07-29,45.2,20898,9.9,33,French,Belgium,TV Show
+345,Infinite Tide,History|Sci-Fi,2006-02-08,44.0,41588,1.2,104,German,Germany,Movie
+346,Bright Memory,Romance|Adventure,1990-12-08,87.2,39638,8.8,33,English,Australia,TV Show
+347,Bright Tide,Romance,1991-11-20,12.2,48028,6.7,186,Korean,South Korea,Movie
+348,Shadow Flame,Thriller,1994-01-01,45.0,4207,9.0,59,Mandarin,Taiwan,TV Show
+349,Broken Echo,Documentary|Thriller|Drama,2003-09-23,22.0,7741,4.8,28,Korean,South Korea,TV Show
+350,Eternal Lines,Action|Documentary,1993-03-20,20.5,46870,4.2,57,Mandarin,Taiwan,TV Show
+351,Broken Odyssey,Musical|Fantasy,1999-08-05,76.7,20526,8.5,132,Spanish,Argentina,Movie
+352,Golden Vision,Fantasy|Action|Crime,2010-07-08,15.2,21949,6.0,173,Hindi,India,Movie
+353,Broken Spectrum,Mystery|Action|Animation,2014-01-01,81.3,17581,1.3,138,French,Belgium,Movie
+354,Infinite Labyrinth,Thriller,1991-09-12,90.8,4194,2.4,90,Mandarin,China,Movie
+355,Fallen Memory,Mystery|Fantasy,2022-10-23,47.2,38302,4.2,59,Mandarin,Taiwan,TV Show
+356,Broken Tide,Musical,2019-10-15,78.1,14219,3.0,167,Italian,Italy,Movie
+357,Crimson Vision,Crime|Adventure,2011-04-22,51.0,12673,3.4,57,Japanese,Japan,TV Show
+358,Bright Odyssey,Documentary|Adventure|Drama,2020-04-22,39.7,29989,1.4,137,Mandarin,Taiwan,Movie
+359,Silent Labyrinth,Animation,2021-12-30,62.3,15367,6.8,52,Korean,South Korea,TV Show
+360,Quantum Vision,Comedy|Musical,2014-08-04,32.9,19945,1.7,59,Korean,South Korea,TV Show
+361,Sacred Journey,Drama|Musical,1992-06-05,68.3,42016,5.5,184,Portuguese,Portugal,Movie
+362,Golden Lines,Romance|Animation|Thriller,2019-01-24,28.1,42398,9.3,46,Portuguese,Portugal,TV Show
+363,Eternal Flame,Musical|Crime|Drama,2009-06-09,59.3,41099,3.6,42,Japanese,Japan,TV Show
+364,Broken Tide,Action|Drama|Sci-Fi,2024-11-08,90.3,13226,3.0,59,Portuguese,Portugal,TV Show
+365,Shadow Flame,Mystery,2007-10-03,58.4,34711,8.5,101,German,Germany,Movie
+366,Quantum Lines,Documentary|Family|Thriller,1993-12-27,89.2,49091,5.2,105,Spanish,Argentina,Movie
+367,Quantum Spectrum,Action|Family|Fantasy,1996-12-12,56.7,36639,2.3,103,Portuguese,Portugal,Movie
+368,Infinite Dreams,Family,2024-04-26,99.9,25100,5.5,154,French,Belgium,Movie
+369,Broken Dreams,Drama,2022-01-14,59.1,9818,3.9,32,German,Germany,TV Show
+370,Quantum Spectrum,Crime|Documentary,2021-09-25,93.6,20586,9.7,82,Italian,Italy,Movie
+371,Mystic Lines,Mystery,1999-10-27,43.7,45871,6.8,28,Spanish,Mexico,TV Show
+372,Crimson Labyrinth,Family|History,2017-06-25,42.8,13103,2.1,70,Italian,Italy,TV Show
+373,Quantum Lines,Musical,2013-12-24,32.8,7212,2.7,114,German,Germany,Movie
+374,Secret Journey,Action,1997-07-22,70.2,12187,1.9,185,Korean,South Korea,Movie
+375,Golden Labyrinth,Crime|Documentary|Thriller,2003-01-10,47.0,2849,6.7,43,French,Belgium,TV Show
+376,Quantum Tide,Drama|Crime|Documentary,1991-04-28,50.8,44580,6.2,196,German,Germany,Movie
+377,Mystic Legacy,Fantasy|Mystery|Documentary,2013-07-07,84.8,27680,4.2,39,German,Germany,TV Show
+378,Wild Legacy,Sci-Fi|Animation|Musical,2006-07-11,59.5,17624,1.5,40,Mandarin,Taiwan,TV Show
+379,Infinite Spectrum,Crime|Horror|Documentary,2024-09-25,11.8,3122,6.7,29,Italian,Italy,TV Show
+380,Night Rhythm,Animation,2018-07-28,34.4,2757,3.7,201,Hindi,India,Movie
+381,Hidden Dreams,Mystery|Animation,2023-01-10,74.8,43359,5.8,36,French,Belgium,TV Show
+382,Eternal Legacy,Thriller,1997-11-25,44.4,4236,2.0,46,Hindi,India,TV Show
+383,Wild Memory,Action|Horror,2007-06-09,50.4,15250,7.1,57,Portuguese,Portugal,TV Show
+384,Lost Memory,Fantasy,2006-02-14,28.2,12876,4.3,66,French,Belgium,TV Show
+385,Mystic Lines,Fantasy|Horror|Drama,2009-08-26,35.5,23851,2.6,67,Mandarin,Taiwan,TV Show
+386,Golden Lines,Mystery|Crime,2012-11-13,92.5,42107,2.6,81,Japanese,Japan,Movie
+387,Mystic Pulse,Horror,2001-11-23,64.3,46999,9.9,43,Mandarin,China,TV Show
+388,Sacred Journey,Mystery,2010-01-23,27.5,11857,8.4,44,Mandarin,Taiwan,TV Show
+389,Quantum Whisper,Horror|Sci-Fi|Musical,1993-04-07,93.0,35498,2.1,21,Mandarin,Taiwan,TV Show
+390,Mystic Whisper,Mystery|Animation,2021-12-09,93.5,49184,8.0,83,Mandarin,China,Movie
+391,Secret Legacy,Documentary|Adventure|Drama,2014-01-05,79.9,27578,5.7,183,Spanish,Mexico,Movie
+392,Infinite Odyssey,Sci-Fi,1995-03-18,88.0,34256,5.9,176,German,Germany,Movie
+393,Crimson Quest,Documentary|History,2008-07-10,33.6,33281,8.9,62,English,Australia,TV Show
+394,Infinite Spectrum,Family|Horror,1994-06-27,53.1,7522,3.9,52,German,Germany,TV Show
+395,Urban Journey,Action|Comedy|Animation,2008-11-18,44.8,3955,4.4,138,Portuguese,Portugal,Movie
+396,Silent Rhythm,Sci-Fi|Documentary,2002-06-03,10.7,47618,6.5,48,Spanish,Spain,TV Show
+397,Golden Legacy,Fantasy|Crime,2024-03-25,18.2,42019,2.2,51,Italian,Italy,TV Show
+398,Silent Quest,Family|Drama|Fantasy,2010-03-08,34.7,7023,2.4,32,Japanese,Japan,TV Show
+399,Urban Echo,Comedy|Romance|Animation,2008-07-24,99.6,8846,7.9,66,Hindi,India,TV Show
+400,Lost Rhythm,Animation,2004-07-13,53.2,11555,1.7,112,Spanish,Mexico,Movie
+401,Bright Storm,Comedy|Mystery,2000-02-28,52.1,3895,9.8,113,Portuguese,Brazil,Movie
+402,Hidden Spectrum,Musical|Horror|Adventure,2016-05-29,19.0,22660,4.9,26,French,Canada,TV Show
+403,Fallen Memory,Adventure|Crime,2007-10-16,30.0,38777,9.0,67,German,Germany,TV Show
+404,Broken Horizon,Family|Romance,2014-11-21,86.9,23112,1.3,55,Korean,South Korea,TV Show
+405,Bright Realm,Family|Adventure,2024-08-05,32.3,16905,8.2,32,English,Australia,TV Show
+406,Urban Memory,Family|Drama|History,2016-12-02,19.2,28122,3.2,63,German,Germany,TV Show
+407,Sacred Realm,History,2012-09-04,66.6,10705,8.6,22,English,UK,TV Show
+408,Eternal Tide,Romance|Family,2005-09-22,36.8,14924,2.4,210,German,Germany,Movie
+409,Forbidden Labyrinth,Musical|Family,1994-04-16,45.3,16550,4.3,155,Portuguese,Portugal,Movie
+410,Infinite Labyrinth,Drama|Family,2022-05-16,74.5,22123,6.3,149,English,UK,Movie
+411,Crimson Storm,Animation|Thriller|History,2014-01-08,79.1,16529,9.5,199,Korean,South Korea,Movie
+412,Night Rhythm,Sci-Fi|Horror,2018-02-22,70.9,49027,7.0,184,Korean,South Korea,Movie
+413,Mystic Horizon,Family,2020-07-25,66.8,3883,5.6,31,German,Germany,TV Show
+414,Fallen Labyrinth,Horror,2019-05-02,72.6,46955,6.5,67,Mandarin,China,TV Show
+415,Quantum Tide,Comedy|Adventure|Drama,2003-11-03,80.6,47193,9.2,171,Mandarin,Taiwan,Movie
+416,Sacred Empire,Mystery|Action,1996-08-24,56.5,14561,4.8,177,Korean,South Korea,Movie
+417,Eternal Odyssey,Adventure|Musical|History,2008-04-09,70.9,17289,7.8,90,French,Canada,Movie
+418,Forbidden Storm,Fantasy|Crime,2004-08-09,65.6,29227,6.5,84,Japanese,Japan,Movie
+419,Dark Spectrum,Fantasy|Drama|Romance,2010-02-04,99.9,37123,5.9,68,Portuguese,Portugal,TV Show
+420,Sacred Realm,Adventure|Family,2010-02-28,31.9,47463,6.2,63,Mandarin,Taiwan,TV Show
+421,Quantum Vision,Sci-Fi|Romance|Adventure,2014-03-08,43.3,25619,9.2,36,German,Germany,TV Show
+422,Golden Pulse,Musical,2014-09-13,62.1,37196,4.4,154,German,Germany,Movie
+423,Golden Whisper,Animation,1995-11-04,49.3,1367,9.7,29,Japanese,Japan,TV Show
+424,Wild Flame,Musical|Family|Romance,2005-04-15,17.5,14731,4.6,41,Japanese,Japan,TV Show
+425,Golden Pulse,Thriller|Animation|Adventure,1999-07-10,35.0,40399,2.0,28,English,UK,TV Show
+426,Bright Dreams,Action|Horror|Mystery,2003-03-22,71.0,31274,3.4,58,French,Belgium,TV Show
+427,Quantum Spectrum,Mystery,2023-04-17,19.7,25865,2.1,164,Spanish,Spain,Movie
+428,Infinite Journey,Musical|Thriller,2001-03-14,57.1,29509,4.8,195,French,Belgium,Movie
+429,Silent Pulse,Adventure|History,2007-03-30,30.6,5456,8.4,207,Portuguese,Brazil,Movie
+430,Sacred Dreams,Crime,2018-02-04,96.5,25922,8.6,202,Portuguese,Portugal,Movie
+431,Golden Odyssey,Comedy|Mystery|Musical,2002-06-27,49.7,16637,5.6,41,Italian,Italy,TV Show
+432,Broken Dreams,Crime,2012-07-07,69.7,15998,4.0,39,Italian,Italy,TV Show
+433,Secret Echo,Family,2019-09-10,66.3,34545,1.5,53,Mandarin,Taiwan,TV Show
+434,Forbidden Quest,Fantasy,1992-07-07,87.6,10149,9.0,109,Japanese,Japan,Movie
+435,Infinite Spectrum,Crime|Adventure|Romance,1997-09-01,85.0,37974,8.7,66,Spanish,Argentina,TV Show
+436,Forbidden Tide,Documentary,2014-09-09,95.5,28541,6.7,146,German,Germany,Movie
+437,Night Flame,Horror|Mystery,2011-06-17,38.1,20788,4.1,150,English,Australia,Movie
+438,Hidden Labyrinth,Action,2013-06-24,32.4,8848,5.6,207,German,Germany,Movie
+439,Wild Lines,Fantasy|Family,1991-08-03,67.5,46722,8.2,58,English,Canada,TV Show
+440,Urban Rhythm,Fantasy|Crime|Comedy,2003-08-14,26.8,285,9.9,82,Hindi,India,Movie
+441,Golden Empire,Documentary,2022-09-25,52.0,35518,5.1,62,Spanish,Argentina,TV Show
+442,Infinite Empire,Mystery|Action,2011-03-12,50.5,44109,9.2,97,Japanese,Japan,Movie
+443,Fallen Memory,Mystery|Animation|Documentary,2004-10-11,43.6,44532,7.4,23,Portuguese,Portugal,TV Show
+444,Urban Odyssey,Action|Animation|Family,2020-11-03,71.7,19166,4.0,151,Japanese,Japan,Movie
+445,Fallen Labyrinth,Action|Documentary|Horror,1994-02-25,79.3,45566,1.6,92,French,Canada,Movie
+446,Urban Legacy,Documentary,2012-06-22,61.8,10642,3.2,131,English,Canada,Movie
+447,Shadow Spectrum,Fantasy|Sci-Fi|Family,2011-04-16,93.6,25735,9.2,48,Spanish,Mexico,TV Show
+448,Sacred Tide,Musical,2004-12-03,13.5,23923,7.7,138,Japanese,Japan,Movie
+449,Lost Memory,Documentary,2014-06-30,20.5,48839,5.6,61,Hindi,India,TV Show
+450,Crimson Storm,Family,1996-08-30,19.7,24639,2.5,121,Portuguese,Portugal,Movie
+451,Fallen Memory,Drama|Horror|Musical,2006-02-06,67.6,18854,8.6,51,Korean,South Korea,TV Show
+452,Infinite Memory,Action,2023-12-03,82.1,38009,6.6,170,Spanish,Spain,Movie
+453,Mystic Realm,Adventure|Family,2000-04-15,18.0,5430,1.3,129,Korean,South Korea,Movie
+454,Dark Spectrum,Family,1990-02-19,90.9,47997,2.0,29,English,Australia,TV Show
+455,Hidden Journey,History|Comedy|Documentary,1997-12-02,48.0,41043,9.9,30,Portuguese,Brazil,TV Show
+456,Lost Horizon,Thriller|Mystery|Comedy,2010-12-07,31.6,2763,9.6,88,Japanese,Japan,Movie
+457,Broken Quest,Sci-Fi|Horror,2010-07-09,14.3,15873,2.0,121,Mandarin,China,Movie
+458,Dark Tide,Comedy|Sci-Fi|Thriller,2010-05-04,60.0,32585,5.8,179,Mandarin,Taiwan,Movie
+459,Silent Realm,Family,2004-04-17,27.1,19502,8.7,53,Korean,South Korea,TV Show
+460,Dark Whisper,Animation|Documentary,2006-04-15,46.0,26439,1.0,180,German,Germany,Movie
+461,Dark Spectrum,Family|History,2012-06-11,77.1,8004,3.8,67,Japanese,Japan,TV Show
+462,Broken Echo,History,2019-09-21,48.2,35970,7.4,182,Korean,South Korea,Movie
+463,Wild Spectrum,Action|History|Horror,2013-12-26,14.8,49587,7.1,41,Spanish,Spain,TV Show
+464,Night Echo,Romance,2005-03-07,58.6,46732,3.6,26,German,Germany,TV Show
+465,Shadow Storm,Horror,2016-04-02,76.3,3002,3.1,96,French,Belgium,Movie
+466,Secret Lines,Sci-Fi,2004-04-16,57.0,49666,7.2,210,Japanese,Japan,Movie
+467,Mystic Flame,Drama,1991-10-11,63.6,8155,3.6,182,Italian,Italy,Movie
+468,Dark Memory,Documentary|Musical|Fantasy,1991-03-17,15.1,24309,3.7,45,Portuguese,Portugal,TV Show
+469,Wild Realm,Comedy|Documentary|Mystery,2020-05-11,91.8,19232,9.6,196,German,Germany,Movie
+470,Golden Realm,Romance|Mystery,2019-01-29,56.8,5306,1.8,56,French,Canada,TV Show
+471,Shadow Echo,Crime|Family,1992-05-05,42.4,14894,1.0,106,Italian,Italy,Movie
+472,Silent Vision,Fantasy|Family|Sci-Fi,2004-01-31,55.9,9139,1.4,141,French,Belgium,Movie
+473,Golden Quest,Musical|Fantasy,2024-06-26,80.3,9072,3.4,65,Japanese,Japan,TV Show
+474,Urban Quest,Family|Romance|Drama,1990-09-27,28.5,13947,8.6,53,Spanish,Argentina,TV Show
+475,Shadow Realm,History,1990-08-08,43.0,5921,6.9,180,Japanese,Japan,Movie
+476,Night Rhythm,History|Documentary,2004-03-16,71.3,42920,5.4,32,Spanish,Argentina,TV Show
+477,Infinite Memory,Action|Sci-Fi,1997-02-04,23.5,27072,3.4,130,Italian,Italy,Movie
+478,Bright Flame,Comedy|Crime|Mystery,2019-03-04,26.1,3283,3.9,203,Korean,South Korea,Movie
+479,Fallen Rhythm,Musical|Crime,2009-10-29,14.3,30488,5.5,123,Hindi,India,Movie
+480,Urban Legacy,Action|Thriller,2016-10-22,91.1,12465,6.7,41,French,Belgium,TV Show
+481,Hidden Quest,Sci-Fi,2011-01-01,76.2,26174,5.7,51,German,Germany,TV Show
+482,Silent Horizon,Documentary|Drama|Thriller,2016-04-14,53.5,16684,6.4,136,German,Germany,Movie
+483,Night Tide,History,2010-02-10,20.6,24472,7.2,178,English,USA,Movie
+484,Shadow Dreams,Action,2023-03-15,41.9,15143,9.7,50,Hindi,India,TV Show
+485,Dark Lines,History|Fantasy,1990-05-02,74.0,1631,5.6,66,Spanish,Mexico,TV Show
+486,Dark Tide,Crime,2011-10-02,47.4,37350,9.9,37,Spanish,Mexico,TV Show
+487,Infinite Spectrum,Comedy|Drama,2001-08-23,60.3,15753,7.6,106,Japanese,Japan,Movie
+488,Fallen Odyssey,Horror|Crime|Adventure,2000-08-04,32.9,21906,9.3,106,Italian,Italy,Movie
+489,Secret Vision,History|Drama,2016-11-30,68.5,16057,5.0,27,Japanese,Japan,TV Show
+490,Night Rhythm,Thriller,2019-11-25,96.2,45732,7.4,38,Spanish,Spain,TV Show
+491,Shadow Realm,Family,2024-01-22,90.9,30013,3.3,52,French,Belgium,TV Show
+492,Infinite Legacy,Animation|Comedy,2002-06-13,97.6,440,5.3,122,Mandarin,Taiwan,Movie
+493,Silent Echo,Crime|Adventure|Fantasy,1991-02-06,58.7,48988,6.3,30,French,France,TV Show
+494,Crimson Legacy,Family|Fantasy|Musical,2022-03-18,39.9,42282,3.6,193,Hindi,India,Movie
+495,Quantum Storm,Animation,2002-09-12,57.4,13969,2.4,106,Japanese,Japan,Movie
+496,Hidden Realm,Horror|Crime|Adventure,2024-10-26,26.2,23528,3.4,87,French,Canada,Movie
+497,Night Empire,History|Horror|Documentary,1991-01-05,47.3,16533,7.8,159,Korean,South Korea,Movie
+498,Bright Flame,Fantasy|Sci-Fi,2017-09-28,96.8,5078,2.8,60,Japanese,Japan,TV Show
+499,Wild Spectrum,Musical|Horror,2004-01-09,33.0,4089,7.6,70,Portuguese,Portugal,TV Show
+500,Quantum Storm,Sci-Fi|Thriller|Family,2002-11-14,44.9,10609,7.0,174,French,Belgium,Movie
